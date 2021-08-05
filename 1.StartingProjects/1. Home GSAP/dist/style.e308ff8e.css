@@ -47,7 +47,7 @@ nav img:nth-child(3) {
 }
 nav img {
   width: 40px;
-  visibility: visible;
+  visibility: hidden;
 }
 .home {
   width: 100%;
